@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "siteName": "我的工具箱",
+    "siteDescription": "收录优质AI工具，助力效率提升",
+    "author": "libaofeng"
+  },
+  "categories": [
+    {
+      "id": "chatbot",
+      "name": "AI对话",
+      "icon": "💬",
+      "description": "智能对话助手",
+      "tools": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chat.openai.com",
+          "description": "OpenAI开发的最强对话AI",
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai",
+          "description": "Anthropic开发的AI助手",
+          "icon": "https://claude.ai/apple-touch-icon.png"
+        },
+        {
+          "name": "文心一言",
+          "url": "https://yiyan.baidu.com",
+          "description": "百度AI对话大模型",
+          "icon": "https://nd-static.bdstatic.com/m-static/v8wenxin/favicon.ico"
+        },
+        {
+          "name": "通义千问",
+          "url": "https://tongyi.aliyun.com",
+          "description": "阿里云AI大模型",
+          "icon": "https://img.alicdn.com/tfs/TB1pFCXKTtYBeNjy1XdXXXXyVXa-128-128.png"
+        }
+      ]
+    },
+    {
+      "id": "image",
+      "name": "AI图像",
+      "icon": "🎨",
+      "description": "图片生成与处理",
+      "tools": [
+        {
+          "name": "Midjourney",
+          "url": "https://www.midjourney.com",
+          "description": "AI艺术图像生成",
+          "icon": "https://www.midjourney.com/apple-touch-icon.png"
+        },
+        {
+          "name": "Stable Diffusion",
+          "url": "https://stability.ai",
+          "description": "开源AI图像生成",
+          "icon": "https://stability.ai/favicon.ico"
+        },
+        {
+          "name": "DALL-E",
+          "url": "https://openai.com/dall-e-3",
+          "description": "OpenAI图像生成AI",
+          "icon": "https://openai.com/favicon.ico"
+        },
+        {
+          "name": "Canva AI",
+          "url": "https://www.canva.com",
+          "description": "AI设计平台",
+          "icon": "https://www.canva.com/apple-touch-icon.png"
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "name": "AI写作",
+      "icon": "✍️",
+      "description": "文案创作助手",
+      "tools": [
+        {
+          "name": "Notion AI",
+          "url": "https://notion.so",
+          "description": "AI写作与笔记",
+          "icon": "https://www.notion.so/images/favicon.ico"
+        },
+        {
+          "name": "Jasper",
+          "url": "https://www.jasper.ai",
+          "description": "AI内容创作平台",
+          "icon": "https://www.jasper.ai/favicon.ico"
+        },
+        {
+          "name": "秘塔写作猫",
+          "url": "https://xiezuocat.com",
+          "description": "中文AI写作助手",
+          "icon": "https://xiezuocat.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "code",
+      "name": "AI编程",
+      "icon": "💻",
+      "description": "代码生成与辅助",
+      "tools": [
+        {
+          "name": "GitHub Copilot",
+          "url": "https://github.com/features/copilot",
+          "description": "AI代码助手",
+          "icon": "https://github.githubassets.com/favicons/favicon.svg"
+        },
+        {
+          "name": "Cursor",
+          "url": "https://cursor.sh",
+          "description": "AI代码编辑器",
+          "icon": "https://cursor.sh/favicon.ico"
+        },
+        {
+          "name": "通义灵码",
+          "url": "https://tongyi.aliyun.com/lingma",
+          "description": "阿里云AI编程助手",
+          "icon": "https://img.alicdn.com/tfs/TB1pFCXKTtYBeNjy1XdXXXXyVXa-128-128.png"
+        }
+      ]
+    },
+    {
+      "id": "video",
+      "name": "AI视频",
+      "icon": "🎬",
+      "description": "视频生成与剪辑",
+      "tools": [
+        {
+          "name": "Runway",
+          "url": "https://runwayml.com",
+          "description": "AI视频生成平台",
+          "icon": "https://runwayml.com/favicon.ico"
+        },
+        {
+          "name": "Pika",
+          "url": "https://pika.art",
+          "description": "AI视频生成",
+          "icon": "https://pika.art/favicon.ico"
+        },
+        {
+          "name": "腾讯智影",
+          "url": "https://zenvideo.qq.com",
+          "description": "腾讯AI视频工具",
+          "icon": "https://v6.zenvideo.qq.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "audio",
+      "name": "AI音频",
+      "icon": "🎵",
+      "description": "语音合成与处理",
+      "tools": [
+        {
+          "name": "ElevenLabs",
+          "url": "https://elevenlabs.io",
+          "description": "AI语音合成",
+          "icon": "https://elevenlabs.io/favicon.ico"
+        },
+        {
+          "name": "Mubert",
+          "url": "https://mubert.com",
+          "description": "AI音乐生成",
+          "icon": "https://mubert.com/favicon.ico"
+        },
+        {
+          "name": "剪映",
+          "url": "https://www.capcut.com",
+          "description": "字节AI视频剪辑",
+          "icon": "https://www.capcut.com/favicon.ico"
+        }
+      ]
+    }
+  ]
+}
